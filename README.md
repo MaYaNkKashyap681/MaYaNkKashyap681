@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
-- 📝 I regularly write articles on [Dev.to, Medium](Dev.to, Medium)
+- 📝 I love to read articles on [Dev.to, Medium](Dev.to, Medium)
 
 - 💬 Ask me about **React, Javascript, DSA and MERN**
 
