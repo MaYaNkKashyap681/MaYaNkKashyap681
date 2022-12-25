@@ -7,11 +7,11 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankkashyap681" alt="mayankkashyap681" /></a> </p> -->
 
-- 🔭 I’m currently working on **DevConnetor**
+- 🔭 I’m currently working on **React, React Native**
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **Flutter**
 
-- 📝 I love to read articles on [Dev.to, Medium](Dev.to, Medium)
+- 📝 I love to write and read articles on [Dev.to, Medium](Dev.to, Medium)
 
 - 💬 Ask me about **React, Javascript, DSA and MERN**
 
