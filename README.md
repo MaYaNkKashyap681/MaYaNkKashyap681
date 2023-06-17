@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankkashyap681&show_icons=true&locale=en&layout=compact" alt="mayankkashyap681" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankkashyap681&show_icons=true&locale=en" alt="mayankkashyap681" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkashyap681&" alt="mayankkashyap681" /></p>
